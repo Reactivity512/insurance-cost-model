@@ -143,15 +143,3 @@ uvicorn main:app --reload
 ## 👤 Автор
 
 Reactivity512
-
-```
-
-### Как загрузить на GitHub
-
-1. **Инициализация репозитория локально:**
-```bash
-cd insurance-cost-predictor
-git init
-git add .
-git commit -m "Initial commit: ML model + FastAPI + Docker"
-```
