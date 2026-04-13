@@ -1,7 +1,7 @@
 # 🏥 Прогнозирование стоимости медицинской страховки
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.14](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95.0-009688.svg)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg)](https://www.docker.com/)
 
@@ -129,7 +129,7 @@ uvicorn main:app --reload
 
 ## 🛠 Технологии
 
-* Python 3.10
+* Python 3.14
 * Scikit-learn — препроцессинг, обучение, пайплайн
 * FastAPI — REST API
 * Uvicorn — ASGI сервер
