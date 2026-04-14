@@ -2,10 +2,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.14](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/downloads/)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-yellow)](https://huggingface.co/spaces/SergeyR256/insurance-cost-model)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95.0-009688.svg)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg)](https://www.docker.com/)
 
 ML-модель для прогнозирования индивидуальных медицинских расходов на основе демографических данных и образа жизни. Проект демонстрирует полный цикл: от разведочного анализа данных (EDA) до развертывания REST API в Docker-контейнере.
+
+**Попробуйте онлайн:** [🤗 Hugging Face Space](https://huggingface.co/spaces/SergeyR256/insurance-cost-model)
 
 ## 📊 Источник данных
 
@@ -58,6 +61,11 @@ insurance-cost-predictor/
 - `children` (int) — Количество детей
 - `smoker` (str) — Курит ли (`yes` / `no`)
 - `region` (str) — Регион США (`southwest`, `southeast`, `northwest`, `northeast`)
+
+## 🚀 Демо
+
+Попробуйте модель онлайн без установки:  
+👉 **[Student Performance Predictor на Hugging Face](https://huggingface.co/spaces/SergeyR256/insurance-cost-model)**
 
 ## 🚀 Быстрый старт (Docker)
 
