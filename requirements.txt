@@ -3,5 +3,4 @@ uvicorn
 joblib
 pandas
 scikit-learn
-numpy
 logging
